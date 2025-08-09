@@ -1,0 +1,5 @@
+symbol,side,entrada,saida_datahora,preco_saida,target,stop_loss,lucro_%,bateu_alvo,bateu_stop
+LTCUSDT,BUY,86.0,2025-08-02 14:00:00,104.7,92.0,84.0,21.74,True,False
+ADAUSDT,BUY,0.54,2025-08-02 10:00:00,0.7154,0.6,0.52,32.48,True,False
+DOTUSDT,SELL,7.5,2025-08-02 07:00:00,3.54,7.0,7.9,52.8,True,False
+AVAXUSDT,SELL,32.0,2025-08-02 20:00:00,20.86,30.0,33.5,34.81,True,False

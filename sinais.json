@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "DOTUSDT",
+    "side": "SELL",
+    "entry": 3.96,
+    "target": 3.70,
+    "stop_loss": 4.10
+  },
+  {
+    "symbol": "ADAUSDT",
+    "side": "SELL",
+    "entry": 0.84,
+    "target": 0.78,
+    "stop_loss": 0.87
+  },
+  {
+    "symbol": "LTCUSDT",
+    "side": "SELL",
+    "entry": 128.00,
+    "target": 120.00,
+    "stop_loss": 132.00
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "side": "SELL",
+    "entry": 23.90,
+    "target": 21.00,
+    "stop_loss": 25.00
+  },
+  {
+    "symbol": "ADAUSDT",
+    "side": "BUY",
+    "entry": 0.79,
+    "target": 0.85,
+    "stop_loss": 0.76
+  },
+  {
+    "symbol": "PEPEUSDT",
+    "side": "BUY",
+    "entry": 0.00000120,
+    "target": 0.00000132,
+    "stop_loss": 0.00000100
+  },
+  {
+    "symbol": "FLOKIUSDT",
+    "side": "BUY",
+    "entry": 0.00000165,
+    "target": 0.00000210,
+    "stop_loss": 0.00000150
+  },
+  {
+    "symbol": "MATICUSDT",
+    "side": "BUY",
+    "entry": 0.37,
+    "target": 0.45,
+    "stop_loss": 0.34
+  }
+]

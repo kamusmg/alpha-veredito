@@ -1,0 +1,146 @@
+[
+  {
+    "symbol": "LINKUSDT",
+    "side": "BUY",
+    "entry": 15,
+    "target": 16.5,
+    "stop_loss": 14.3,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "side": "BUY",
+    "entry": 32.5,
+    "target": 36,
+    "stop_loss": 30.8,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "PEPEUSDT",
+    "side": "BUY",
+    "entry": 0.000008,
+    "target": 0.00001,
+    "stop_loss": 0.000008,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "ICPUSDT",
+    "side": "BUY",
+    "entry": 12.8,
+    "target": 14.5,
+    "stop_loss": 12,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "ARBUSDT",
+    "side": "BUY",
+    "entry": 1.1,
+    "target": 1.25,
+    "stop_loss": 1.05,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "SUIUSDT",
+    "side": "BUY",
+    "entry": 1.08,
+    "target": 1.2,
+    "stop_loss": 1.02,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "FLOKIUSDT",
+    "side": "BUY",
+    "entry": 0.0002,
+    "target": 0.00023,
+    "stop_loss": 0.000188,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "OPUSDT",
+    "side": "BUY",
+    "entry": 2.65,
+    "target": 2.9,
+    "stop_loss": 2.55,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "RNDRUSDT",
+    "side": "SELL",
+    "entry": 9.8,
+    "target": 8.8,
+    "stop_loss": 10.5,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "side": "SELL",
+    "entry": 0.78,
+    "target": 0.7,
+    "stop_loss": 0.82,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "WIFUSDT",
+    "side": "SELL",
+    "entry": 2.9,
+    "target": 2.5,
+    "stop_loss": 3.2,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "side": "SELL",
+    "entry": 6.8,
+    "target": 6.2,
+    "stop_loss": 7.2,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "side": "SELL",
+    "entry": 0.45,
+    "target": 0.42,
+    "stop_loss": 0.47,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "side": "SELL",
+    "entry": 0.15,
+    "target": 0.135,
+    "stop_loss": 0.16,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "LDOUSDT",
+    "side": "SELL",
+    "entry": 2.1,
+    "target": 1.9,
+    "stop_loss": 2.25,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  },
+  {
+    "symbol": "INJUSDT",
+    "side": "SELL",
+    "entry": 25,
+    "target": 22.5,
+    "stop_loss": 26.5,
+    "entrada_datahora": "2024-05-15 10:00:00",
+    "saida_datahora": "2024-05-16 10:00:00"
+  }
+]

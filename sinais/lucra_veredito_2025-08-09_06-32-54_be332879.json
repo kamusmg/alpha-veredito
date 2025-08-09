@@ -1,0 +1,65 @@
+[
+  {
+    "symbol": "ADAUSDT",
+    "side": "BUY",
+    "entry": 0.8,
+    "target": 0.85,
+    "stop_loss": 0.77,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "side": "BUY",
+    "entry": 4.05,
+    "target": 4.25,
+    "stop_loss": 3.95,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  },
+  {
+    "symbol": "MATICUSDT",
+    "side": "BUY",
+    "entry": 0.38,
+    "target": 0.41,
+    "stop_loss": 0.36,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 06:42:54"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "side": "BUY",
+    "entry": 124,
+    "target": 130,
+    "stop_loss": 120,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "side": "SELL",
+    "entry": 15.8,
+    "target": 14.5,
+    "stop_loss": 16.5,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  },
+  {
+    "symbol": "UNIUSDT",
+    "side": "SELL",
+    "entry": 7.8,
+    "target": 7.2,
+    "stop_loss": 8.2,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "side": "SELL",
+    "entry": 380,
+    "target": 365,
+    "stop_loss": 390,
+    "entrada_datahora": "2025-08-09 06:32:54",
+    "saida_datahora": "2025-08-09 07:32:54"
+  }
+]

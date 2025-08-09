@@ -1,0 +1,119 @@
+    {
+      "symbol": "Litecoin (LTC)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Avalanche (AVAX)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Dogecoin (DOGE)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Polkadot (DOT)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Chainlink (LINK)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "NEAR Protocol (NEAR)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Aptos (APT)USDT",
+      "side": "BUY",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "MATIC (MATIC)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "ICP (Internet Computer)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Render Token (RNDR)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "THORChain (RUNE)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Fantom (FTM)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    },
+    {
+      "symbol": "Injective (INJ)USDT",
+      "side": "SELL",
+      "entry": null,
+      "target": null,
+      "stop_loss": null,
+      "entrada_datahora": "2025-08-09 06:25:07",
+      "saida_datahora": "2025-08-10 06:25:07"
+    }
+  ]
+}
