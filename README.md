@@ -29,10 +29,6 @@ Teste localmente se o sistema abre no navegador.
 
 Confirme que a auditoria e coleta de sinais está funcionando.
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 📦 Passo a passo rápido (sem GPT)
@@ -74,10 +70,5 @@ utils/ → Funções auxiliares.
 O .gitignore já ignora cache e arquivos temporários.
 O código está pronto pra ser rodado em qualquer máquina com Python 3.9+.
 
-yaml
-Copiar
-Editar
-
 ---
 
-Se quiser, eu já subo esse README no repositório pra você agora e ele já fica guardado no backup. Quer que 
